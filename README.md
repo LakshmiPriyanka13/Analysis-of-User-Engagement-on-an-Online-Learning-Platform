@@ -8,8 +8,17 @@ This repository contains a comprehensive analysis of learner engagement and cour
 <a href="https://github.com/LakshmiPriyanka13/Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/students.csv">students.csv</a>,   
 <a href="https://github.com/LakshmiPriyanka13/Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/course_activity.csv">course_activity.csv</a>
 
-#### Python Notebook: Codes for Data cleaning and Exploratory Data Analysis
+#### Python Notebook: Codes for Exploratory Data Analysis
 <a href="https://github.com/LakshmiPriyanka13/Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Analysis%20of%20User%20Engagement.ipynb">Analysis of User Engagement.ipynb</a>
+
+#### Power BI file: Contains Dashboard
+<a href="https://github.com/LakshmiPriyanka13/Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Online%20Learning%20Plateform%20Dashboard.pbix">Online Learning Plateform Dashboard</a>
+Date used to create the dashboard - <a href="https://github.com/LakshmiPriyanka13/Analysis-of-User-Engagement-on-an-Online-Learning-Platform/blob/main/Final%20Data.csv">Final Data.csv</a>
+
+#### Key Insights and Recommnedations for the company 
+<a href="
+
+
 
 
 
